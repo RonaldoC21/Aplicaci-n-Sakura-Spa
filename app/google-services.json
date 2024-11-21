@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497583483823",
+    "project_id": "proyectoautenticacion-rc21",
+    "storage_bucket": "proyectoautenticacion-rc21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497583483823:android:52e474c65b82580384dd5a",
+        "android_client_info": {
+          "package_name": "com.example.app_dam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvHBlkdHziG107nK03oiHVL2mjZZMoNjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
